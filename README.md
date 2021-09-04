@@ -17,29 +17,29 @@ Each metric for comparison between city types will be outlined in the sections b
 
 There have been 2,775 rides for PyBer in 2019. The allocation of these rides by city type is represented below.
 
-![Ride_Data](C:\Users\BestinTX\Documents\Boot Camp\Pyber_Analysis\analysis\Fig6.png)
+![Ride_Data](analysis\Fig6.png)
 
 #### Total Drivers
 
 There are 2,973 drivers for PyBer. The allocation of the drivers by city type is represented below.
 
-![Total Drivers](C:\Users\BestinTX\Documents\Boot Camp\Pyber_Analysis\analysis\Fig7.png)
+![Total Drivers](analysis\Fig7.png)
 
 #### Total Fares
 
-![Total Fares](C:\Users\BestinTX\Documents\Boot Camp\Pyber_Analysis\analysis\Fig5.png)
+![Total Fares](analysis\Fig5.png)
 
 #### Average Fare per Ride & Average Fare per Driver
 
 The image below shows the Average Fares per Ride and Driver by city type.
 
-![Average Fares](C:\Users\BestinTX\Documents\Boot Camp\Pyber_Analysis\analysis\PyBer_summary_df.png)
+![Average Fares](analysis\PyBer_summary_df.png)
 
 As you can see, both the average fare per ride and per driver increase as population decreases.
 
 #### Total Fares for Jan-Apr 2019
 
-![Total Fares Over Time](C:\Users\BestinTX\Documents\Boot Camp\Pyber_Analysis\analysis\PyBer_fare_summary.png)
+![Total Fares Over Time](analysis\PyBer_fare_summary.png)
 
 
 
